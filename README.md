@@ -1,2 +1,2 @@
 # Python-Small-Exercise
-some demo
+python项目练习
